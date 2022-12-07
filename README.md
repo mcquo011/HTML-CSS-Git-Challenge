@@ -1,7 +1,7 @@
-# Module 1 Challenge 
+# HTML CSS GIT Module 1 Challenge  
 # Helping Horiseon
 
-Horiseon is an app to help optimize your website applications. 
+Horiseon is a site to help optimize your website applications. 
 
 ## Installation
 
