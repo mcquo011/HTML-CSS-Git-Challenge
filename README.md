@@ -1,7 +1,7 @@
 # Module 1 Challenge 
 # Helping Horiseon
 
-Foobar is a Python library for dealing with word pluralization.
+Horiseon is an app to help optimize your website applications. 
 
 ## Installation
 
@@ -9,11 +9,11 @@ Cloned this app down from GitHub Repo using git clone.
 
 ## Usage
 
-A site to support... 
+A site to support search engine optimzation, online reputation management and social media marketing.
 
 ## Contributing
 
-Starter code from ..
+Starter code from UMN Bootcamp Class Repo
 Fixes by Maggie McQuown
 
 ## Screenshot
