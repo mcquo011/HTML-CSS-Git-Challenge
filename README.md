@@ -1,7 +1,7 @@
 # HTML CSS GIT Module 1 Challenge  
 # Helping Horiseon
 
-Horiseon is a site to help optimize your website applications. 
+Horiseon is a marketing agency here to help you optimize your buisness through an accesible website. 
 
 ## Installation
 
@@ -9,12 +9,14 @@ Cloned this app down from GitHub Repo using git clone.
 
 ## Usage
 
-A site to support search engine optimzation, online reputation management and social media marketing.
+ Use their site as a guide to support search engine optimzation, online reputation management, social media marketing, along with other tips and tricks.
+
+Link to application: https://mcquo011.github.io/HTML-CSS-Git-Challenge/
 
 ## Contributing
 
-Starter code from UMN Bootcamp Class Repo
-Fixes by Maggie McQuown
+Starter code from UMN Bootcamp Class Repo.
+Fixes to HTML and CSS style sheet by Maggie McQuown. 
 
 ## Screenshot
 
