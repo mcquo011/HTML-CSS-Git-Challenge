@@ -3,9 +3,11 @@
 
 Horiseon is a marketing agency here to help you optimize your buisness through an accesible website. 
 
+The motivation behind this project was to refactor the HTML and CSS to make the site more accessible. During this project I learned how to meet accessibility standards by using semantic HTML, image attributes, alt attributes, heading attributes, sequential order, etc. 
+
 ## Installation
 
-Cloned this app down from GitHub Repo using git clone. 
+Cloned this app down from GitHub class Repo using git clone.
 
 ## Usage
 
